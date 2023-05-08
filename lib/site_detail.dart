@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:url_launcher/url_launcher.dart';
 import 'site_data.dart';
 
+
 class SiteDetail extends StatefulWidget {
   final SiteData data;
   const SiteDetail({super.key, required this.data});

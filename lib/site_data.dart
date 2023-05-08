@@ -34,7 +34,7 @@ var listSite = [
   SiteData(
     name: "Bukalapak",
     image:
-        "https://raw.githubusercontent.com/rafliIrfansyah/tugas4_tpm/master/assets/images/shopee.jpg",
+        "https://raw.githubusercontent.com/rafliIrfansyah/tugas4_tpm/master/assets/images/bukalapak.jpg",
     pageUrl: "https://www.bukalapak.com/",
     description: "PT Bukalapak.com Tbk (ditulis Bukalapak) merupakan salah satu perusahaan perdagangan elektronik Indonesia. Mulanya perusahaan ini dibentuk oleh pemilik brand shopping lokal melalui grup kepemilikannya yang didirikan oleh Achmad Zaky, Nugroho Herucahyono, dan Muhamad Fajrin Rasyid pada tahun 2010. Bukalapak awalnya merupakan toko daring yang memungkinkan para pelaku Usaha Kecil dan Menengah (UKM) untuk merambah ke dunia maya.",
     isFavorite: false,

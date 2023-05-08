@@ -59,7 +59,7 @@ class LoginPageState extends State<LoginPage> {
               ElevatedButton(
                 child: const Text('Login'),
                 onPressed: () {
-                  if (usernameController.text == 'user' &&
+                  if (usernameController.text == 'admin' &&
                       passwordController.text == '123') {
                       usernameController.text = '';
                       passwordController.text = '';
